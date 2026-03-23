@@ -1,3 +1,20 @@
+# RoadSurvival
+
+> Offline AI survival expert — Pi 5 + Hailo-8
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`thotsl4yer69/survival-companion`](https://github.com/thotsl4yer69/survival-companion) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # Survival Companion
 
 **Offline AI survival expert system for Raspberry Pi 5 with Hailo-8 accelerator**
